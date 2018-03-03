@@ -6,4 +6,5 @@
     with_items:
       - htop
       - tmux
+      - golang
 
